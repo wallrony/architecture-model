@@ -1,0 +1,1 @@
+Essa pasta serve para representar a pasta "src" de um projeto feito em Next.JS.

@@ -1,0 +1,1 @@
+Essa pasta serve para representar a pasta "lib" de um projeto feito em flutter.
